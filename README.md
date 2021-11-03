@@ -10,7 +10,7 @@ Forum App, with a frontend built in React & Redux and a backend built in Django 
 
 Check out [FRONTEND LIVE DEMO](https://frontend-akshay.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://forum-prod-api.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://backend-akshay.herokuapp.com/) here!!
 
 ## Tech used
 
